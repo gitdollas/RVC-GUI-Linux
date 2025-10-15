@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+dist/
+build/
+*.deb
+*.whl
+*.zip
+*.so
+*.dylib
+*.pyd
+*.pt
+*.pth
+*.index
+*.npy
+models/
+output/
+rvcgui_1.0/
